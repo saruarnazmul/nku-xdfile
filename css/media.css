@@ -1,0 +1,126 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+	.banner-logo{
+		margin-top: 15px;
+	}
+	.common-title{
+		padding-left: 20px;
+	}
+	.high-content{
+		text-align: center;
+	}
+	.s-background{
+		margin-top: 50px;
+	}
+
+	.nku-content h4{
+		font-size: 16px;
+	}
+	.nku-content p{
+		font-size:12px ;
+	}
+	.how-to {
+		margin-top: 2rem;
+		left: 0rem;
+	}
+	.common-title-2 {
+		margin-left: 1rem;
+	}
+	.common-margin{
+		margin-top: 15px;
+	}
+	.select-custom{
+		margin: 5px 0;
+	}
+	.contact-form{
+		padding: 50px 30px;
+	}
+	iframe {
+		/* height: 300px; */
+		width: 280px;
+		height: auto;
+	}
+	.common-margin-1{
+		margin-top: 15rem;
+	}
+	.common-margin-2{
+		margin-top: 19rem;
+	}
+	.mobile-size{
+		width: 125px;
+		height: 89px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.common-title {
+		margin-left: 26px;
+	}
+	.nku-content h4{
+		font-size: 20px;
+	}
+	.nku-content p{
+		font-size:14px ;
+	}
+	/* sbackground */
+	.s-background{
+		margin-top: 35px;
+	}
+	.common-margin3{
+		margin-top: 15px;
+	}
+	.common-marging2{
+		margin-top: 24px;
+	}
+	.contact-form{
+		padding: 50px 0;
+	}
+	iframe {
+		
+		width: 235px;
+		height: 235px;
+	}
+	
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+	.nku-content h4{
+		font-size: 20px;
+	}
+	.nku-content p{
+		font-size:14px ;
+	}
+	.common-title h4 {
+
+		font-size: 22px;
+	}
+	.common-box-para p{
+		font-size: 12px;
+	}
+	iframe {
+		width: 400px;
+		height: 250px;
+	}
+	.mobile-size{
+		width: 90px;
+		height: 64px;
+	}
+
+	}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+
+
+
+}
